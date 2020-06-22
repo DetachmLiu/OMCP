@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+
+    background: url("image/星空.jpg") no-repeat ;
+    background-size: cover ;
+}
+.container {
+    position: relative;
+    width: 24rem;
+}
+.div1_search{
+    position: fixed;
+    left: 100px;
+    top: 100px;
+    width: 500px;
+    height: 100px;
+}
+.div2_image{
+    position: fixed;
+    left: 100px;
+    top: 250px;
+    width: 500px;
+    height: 500px;
+}
+.div3_video{
+    position: fixed;
+    left: 100px;
+    top: 800px;
+    width: 500px;
+    height: 150px;
+}
+.video{
+    width: 500px;
+    height: 300px;
+    margin:0 auto;
+    display:flex
+}
+.div4{
+    border: 0px;
+    position: fixed;
+    left: 1000px;
+    top: 100px;
+    height: 900px;
+    width: 800px;
+}
