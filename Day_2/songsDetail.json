@@ -1,0 +1,270 @@
+{
+  "code": 200,
+  "msg": "OK",
+  "timestamp": 0,
+  "data": {
+    "privileges": [
+      {
+        "st": 0,
+        "flag": 0,
+        "subp": 1,
+        "fl": 128000,
+        "fee": 8,
+        "dl": 0,
+        "downloadMaxbr": 999000,
+        "cp": 1,
+        "preSell": false,
+        "cs": false,
+        "toast": false,
+        "playMaxbr": 999000,
+        "maxbr": 999000,
+        "id": 412785957,
+        "pl": 128000,
+        "sp": 7,
+        "payed": 0
+      },
+      {
+        "st": 0,
+        "flag": 260,
+        "subp": 1,
+        "fl": 128000,
+        "fee": 8,
+        "dl": 0,
+        "downloadMaxbr": 999000,
+        "cp": 1,
+        "preSell": false,
+        "cs": false,
+        "toast": false,
+        "playMaxbr": 999000,
+        "maxbr": 999000,
+        "id": 515269424,
+        "pl": 128000,
+        "sp": 7,
+        "payed": 0
+      },
+      {
+        "st": 0,
+        "flag": 260,
+        "subp": 1,
+        "fl": 128000,
+        "fee": 8,
+        "dl": 0,
+        "downloadMaxbr": 320000,
+        "cp": 1,
+        "preSell": false,
+        "cs": false,
+        "toast": false,
+        "playMaxbr": 320000,
+        "maxbr": 320000,
+        "id": 1444959394,
+        "pl": 128000,
+        "sp": 7,
+        "payed": 0
+      }
+    ],
+    "code": 200,
+    "songs": [
+      {
+        "no": 1,
+        "copyright": 0,
+        "fee": 8,
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 273802,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "id": 412785957,
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1463097600000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10954754,
+          "vd": -34600.0
+        },
+        "mv": 5342039,
+        "al": {
+          "picUrl": "http://p1.music.126.net/bMmu6yG6Hm9ySSibyZ-MtQ==/109951163311376025.jpg",
+          "name": "Alone",
+          "tns": [],
+          "pic_str": "109951163311376025",
+          "id": 34700038,
+          "pic": 109951163311376025
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4381928,
+          "vd": -30800.0
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6572870,
+          "vd": -32100.0
+        },
+        "cp": 729016,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "Marshmello",
+            "tns": [],
+            "alias": [],
+            "id": 1060019
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 15,
+        "name": "Alone",
+        "mark": 262144
+      },
+      {
+        "no": 1,
+        "copyright": 1,
+        "fee": 8,
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 197993,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "id": 515269424,
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1508860800000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7922460,
+          "vd": -33900.0
+        },
+        "mv": 5739060,
+        "al": {
+          "picUrl": "http://p1.music.126.net/-nQ2E-8ZjuwGtMipBTYzBw==/17902248323721194.jpg",
+          "name": "Wolves",
+          "tns": [],
+          "pic_str": "17902248323721194",
+          "id": 36672203,
+          "pic": 17902248323721194
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3169010,
+          "vd": -29800.0
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4753493,
+          "vd": -31300.0
+        },
+        "cp": 7003,
+        "alia": [
+          "狼群"
+        ],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "Selena Gomez",
+            "tns": [],
+            "alias": [],
+            "id": 140196
+          },
+          {
+            "name": "Marshmello",
+            "tns": [],
+            "alias": [],
+            "id": 1060019
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 57,
+        "name": "Wolves",
+        "mark": 270336
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 1,
+        "fee": 8,
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 172800,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "id": 1444959394,
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1588262400000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 6913089,
+          "vd": -54026.0
+        },
+        "mv": 10932635,
+        "al": {
+          "picUrl": "http://p2.music.126.net/21tURNTPoJ_wRUpfKjVn2A==/109951164953539622.jpg",
+          "name": "Be Kind",
+          "tns": [],
+          "pic_str": "109951164953539622",
+          "id": 88836925,
+          "pic": 109951164953539622
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2765262,
+          "vd": -49936.0
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4147871,
+          "vd": -51489.0
+        },
+        "cp": 7003,
+        "alia": [],
+        "djId": 0,
+        "single": 0,
+        "ar": [
+          {
+            "name": "Marshmello",
+            "tns": [],
+            "alias": [],
+            "id": 1060019
+          },
+          {
+            "name": "Halsey",
+            "tns": [],
+            "alias": [],
+            "id": 964321
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 4,
+        "name": "Be Kind",
+        "mark": 270336
+      }
+    ]
+  }
+}
