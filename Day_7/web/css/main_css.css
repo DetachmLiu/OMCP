@@ -1,0 +1,230 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+
+    background: url("../image/星空.jpg") no-repeat ;
+    background-size: cover ;
+}
+.container {
+    position: relative;
+    width: 24rem;
+}
+.div1{
+    position: fixed;
+    border: 0;
+    left: 160px;
+    top: 50px;
+    width: 500px;
+    height: 100px;
+}
+.div2_image{
+    position: relative;
+    top: 250px;
+    left: 100px;
+    width: 400px;
+    height: 400px;
+
+}
+
+.div3_video{
+    position: relative;
+    top: 200px;
+    left: 100px;
+    width: 600px;
+    height: 400px;
+}
+.video{
+    width: 500px;
+    height: 300px;
+    margin:0 auto;
+    display:flex
+}
+.div4{
+    border: 0;
+    position: fixed;
+    left: 1000px;
+    top: 50px;
+    height: 900px;
+    width: 800px;
+}
+
+.audio{
+    width: 500px;
+}
+.img{
+    height: 250px;
+    width: 250px;
+    margin-left: 125px;
+}
+.login-button { /* 按钮美化 */
+    width:  70px; /* 宽度 */
+    height: 40px; /* 高度 */
+    border-width: 0; /* 边框宽度 */
+    border-radius: 3px; /* 边框半径 */
+    background: #b36289; /* 背景颜色 */
+    cursor: pointer; /* 鼠标移入按钮范围时出现手势 */
+    outline: none; /* 不显示轮廓线 */
+    font-family: Microsoft YaHei, serif; /* 设置字体 */
+    color: white; /* 字体颜色 */
+    font-size: 17px; /* 字体大小 */
+}
+.login-button:hover { /* 鼠标移入按钮范围时改变颜色 */
+    background: #5599FF;
+}
+
+ul {
+    list-style: none;
+}
+button {
+    top: 20%;
+    left: 10%;
+    outline: none;
+    border: none;
+}
+.firefly {
+    width: 180px;
+    height: 60px;
+    position: absolute;
+    top: 70%;
+    left: 15%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(to right, #6EB46E 10%, #55B455);
+    border-radius: 40px;
+    opacity: .88;
+    cursor: pointer;
+    transition: 1s;
+}
+.firefly:hover {
+    box-shadow: 0 0 10px #B4FFB4;
+}
+.firefly p {
+    line-height: 60px;
+    font-size: 22px;
+    color: #F5DD8F;
+    font-family: firefly;
+    opacity: .88;
+}
+.lightning {
+    width: 95%;
+    height: 80%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    border-radius: 40px;
+    transition: .8s;
+    overflow: hidden;
+}
+.firefly:hover .lightning {
+    box-shadow: 0 0 4px #B4FFB4 inset;
+}
+.lightning ul {
+    opacity: 0;
+    transition: .8s;
+}
+.firefly:hover ul {
+    opacity: .8;
+}
+.lightning ul li {
+    width: 5px;
+    height: 5px;
+    background-color: #91FA91;
+    position: absolute;
+    bottom: 10%;
+    border-radius: 50%;
+    opacity: .6;
+    animation: fireflymove infinite linear;
+}
+@keyframes fireflymove {
+    100% {
+        bottom: 100%;
+    }
+}
+.firefly2 {
+    width: 180px;
+    height: 60px;
+    position: absolute;
+    top: 70%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    background: linear-gradient(to right, #6EB46E 10%, #55B455);
+    border-radius: 40px;
+    opacity: .88;
+    cursor: pointer;
+    transition: 1s;
+}
+.firefly2:hover {
+    box-shadow: 0 0 10px #B4FFB4;
+}
+.firefly2 p {
+    line-height: 60px;
+    font-size: 22px;
+    color: #F5DD8F;
+    font-family: firefly2;
+    opacity: .88;
+}
+
+.firefly2:hover .lightning {
+    box-shadow: 0 0 4px #B4FFB4 inset;
+}
+#loader {
+
+    display: block;
+
+    position: relative;
+
+    -webkit-animation: spin 2s linear infinite;
+
+    animation: spin 8s linear infinite;
+
+}
+
+@-webkit-keyframes spin {
+
+    0%   {
+
+        -webkit-transform: rotate(0deg);
+
+        -ms-transform: rotate(0deg);
+
+        transform: rotate(0deg);
+
+    }
+
+    100% {
+
+        -webkit-transform: rotate(360deg);
+
+        -ms-transform: rotate(360deg);
+
+        transform: rotate(360deg);
+
+    }
+
+}
+
+@keyframes spin {
+
+    0%   {
+
+        -webkit-transform: rotate(0deg);
+
+        -ms-transform: rotate(0deg);
+
+        transform: rotate(0deg);
+
+    }
+
+    100% {
+
+        -webkit-transform: rotate(360deg);
+
+        -ms-transform: rotate(360deg);
+
+        transform: rotate(360deg);
+
+    }
+
+}
