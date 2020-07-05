@@ -1,0 +1,927 @@
+{
+  "code": 200,
+  "msg": "OK",
+  "timestamp": 0,
+  "data": {
+    "highlights": [
+      "marshmello"
+    ],
+    "songs": [
+      {
+        "no": 1,
+        "copyright": 0,
+        "showRecommend": false,
+        "fee": 8,
+        "privilege": {
+          "st": 0,
+          "flag": 0,
+          "subp": 1,
+          "fl": 128000,
+          "fee": 8,
+          "dl": 0,
+          "cp": 1,
+          "cs": false,
+          "toast": false,
+          "maxbr": 999000,
+          "id": 412785957,
+          "pl": 128000,
+          "sp": 7,
+          "payed": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 273802,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "id": 412785957,
+        "alg": "alg_search_precision_song_tab_hotartist",
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1463097600000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 10954754,
+          "vd": -34600.0
+        },
+        "mv": 5342039,
+        "al": {
+          "picUrl": "http://p2.music.126.net/bMmu6yG6Hm9ySSibyZ-MtQ==/109951163311376025.jpg",
+          "name": "Alone",
+          "tns": [],
+          "pic_str": "109951163311376025",
+          "id": 34700038,
+          "pic": 109951163311376025
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 4381928,
+          "vd": -30800.0
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 6572870,
+          "vd": -32100.0
+        },
+        "cp": 729016,
+        "alia": [],
+        "djId": 0,
+        "ar": [
+          {
+            "name": "Marshmello",
+            "tns": [],
+            "alias": [
+              "棉花糖"
+            ],
+            "id": 1060019,
+            "alia": [
+              "棉花糖"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 15,
+        "name": "Alone",
+        "officialTags": true,
+        "mark": 262144
+      },
+      {
+        "no": 1,
+        "copyright": 1,
+        "showRecommend": false,
+        "fee": 8,
+        "privilege": {
+          "st": 0,
+          "flag": 260,
+          "subp": 1,
+          "fl": 128000,
+          "fee": 8,
+          "dl": 0,
+          "cp": 1,
+          "cs": false,
+          "toast": false,
+          "maxbr": 999000,
+          "id": 515269424,
+          "pl": 128000,
+          "sp": 7,
+          "payed": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 197993,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "id": 515269424,
+        "alg": "alg_search_precision_song_tab_hotartist",
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1508860800000,
+        "cf": "",
+        "originCoverType": 1,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7922460,
+          "vd": -33900.0
+        },
+        "mv": 5739060,
+        "al": {
+          "picUrl": "http://p2.music.126.net/-nQ2E-8ZjuwGtMipBTYzBw==/17902248323721194.jpg",
+          "name": "Wolves",
+          "tns": [],
+          "pic_str": "17902248323721194",
+          "id": 36672203,
+          "pic": 17902248323721194
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3169010,
+          "vd": -29800.0
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4753493,
+          "vd": -31300.0
+        },
+        "cp": 7003,
+        "alia": [
+          "狼群"
+        ],
+        "djId": 0,
+        "ar": [
+          {
+            "name": "Selena Gomez",
+            "tns": [
+              "赛琳娜·戈麦斯"
+            ],
+            "alias": [],
+            "id": 140196
+          },
+          {
+            "name": "Marshmello",
+            "tns": [],
+            "alias": [
+              "棉花糖"
+            ],
+            "id": 1060019,
+            "alia": [
+              "棉花糖"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 57,
+        "name": "Wolves",
+        "officialTags": true,
+        "mark": 270336
+      },
+      {
+        "no": 1,
+        "rt": "",
+        "copyright": 1,
+        "showRecommend": false,
+        "fee": 8,
+        "privilege": {
+          "st": 0,
+          "flag": 260,
+          "subp": 1,
+          "fl": 128000,
+          "fee": 8,
+          "dl": 0,
+          "cp": 1,
+          "cs": false,
+          "toast": false,
+          "maxbr": 320000,
+          "id": 1444959394,
+          "pl": 128000,
+          "sp": 7,
+          "payed": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 172800,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "id": 1444959394,
+        "alg": "alg_search_precision_song_tab_hotartist",
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1588262400000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 6913089,
+          "vd": -54026.0
+        },
+        "mv": 10932635,
+        "al": {
+          "picUrl": "http://p2.music.126.net/21tURNTPoJ_wRUpfKjVn2A==/109951164953539622.jpg",
+          "name": "Be Kind",
+          "tns": [],
+          "pic_str": "109951164953539622",
+          "id": 88836925,
+          "pic": 109951164953539622
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2765262,
+          "vd": -49936.0
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4147871,
+          "vd": -51489.0
+        },
+        "cp": 7003,
+        "alia": [],
+        "djId": 0,
+        "ar": [
+          {
+            "name": "Marshmello",
+            "tns": [],
+            "alias": [
+              "棉花糖"
+            ],
+            "id": 1060019,
+            "alia": [
+              "棉花糖"
+            ]
+          },
+          {
+            "name": "Halsey",
+            "tns": [],
+            "alias": [],
+            "id": 964321
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 4,
+        "name": "Be Kind",
+        "officialTags": true,
+        "mark": 270336
+      },
+      {
+        "no": 1,
+        "copyright": 1,
+        "showRecommend": false,
+        "fee": 8,
+        "privilege": {
+          "st": 0,
+          "flag": 260,
+          "subp": 1,
+          "fl": 128000,
+          "fee": 8,
+          "dl": 0,
+          "cp": 1,
+          "cs": false,
+          "toast": false,
+          "maxbr": 320000,
+          "id": 1302290019,
+          "pl": 128000,
+          "sp": 7,
+          "payed": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 214334,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "id": 1302290019,
+        "alg": "alg_search_precision_song_tab_hotartist",
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1534435200000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8574476,
+          "vd": -4.0
+        },
+        "mv": 10798188,
+        "al": {
+          "picUrl": "http://p2.music.126.net/C9VROaNKfElXqG6A4UEzfQ==/109951163815567571.jpg",
+          "name": "Happier",
+          "tns": [],
+          "pic_str": "109951163815567571",
+          "id": 72343547,
+          "pic": 109951163815567571
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3429817,
+          "vd": -4.0
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5144703,
+          "vd": -4.0
+        },
+        "cp": 7003,
+        "alia": [],
+        "djId": 0,
+        "ar": [
+          {
+            "name": "Marshmello",
+            "tns": [],
+            "alias": [
+              "棉花糖"
+            ],
+            "id": 1060019,
+            "alia": [
+              "棉花糖"
+            ]
+          },
+          {
+            "name": "Bastille",
+            "tns": [],
+            "alias": [
+              "BΔSTILLE"
+            ],
+            "id": 89090,
+            "alia": [
+              "BΔSTILLE"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 14,
+        "name": "Happier",
+        "officialTags": true,
+        "mark": 270336
+      },
+      {
+        "no": 1,
+        "copyright": 1,
+        "showRecommend": false,
+        "fee": 1,
+        "privilege": {
+          "st": 0,
+          "flag": 1284,
+          "subp": 0,
+          "fl": 0,
+          "fee": 1,
+          "dl": 0,
+          "cp": 0,
+          "cs": false,
+          "toast": false,
+          "maxbr": 999000,
+          "id": 535024262,
+          "pl": 0,
+          "sp": 0,
+          "payed": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 202620,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "id": 535024262,
+        "alg": "alg_search_precision_song_tab_hotartist",
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1518105600007,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8107407,
+          "vd": -41800.0
+        },
+        "mv": 5838114,
+        "al": {
+          "picUrl": "http://p2.music.126.net/7LqKg3CIInlYaAqgDNhfzw==/109951163435868096.jpg",
+          "name": "FRIENDS",
+          "tns": [],
+          "pic_str": "109951163435868096",
+          "id": 37425872,
+          "pic": 109951163435868096
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3242989,
+          "vd": -38000.0
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4864462,
+          "vd": -39200.0
+        },
+        "cp": 7002,
+        "alia": [],
+        "djId": 0,
+        "ar": [
+          {
+            "name": "Marshmello",
+            "tns": [],
+            "alias": [
+              "棉花糖"
+            ],
+            "id": 1060019,
+            "alia": [
+              "棉花糖"
+            ]
+          },
+          {
+            "name": "Anne-Marie",
+            "tns": [],
+            "alias": [],
+            "id": 1102181
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 29,
+        "name": "FRIENDS",
+        "officialTags": true,
+        "mark": 270336
+      },
+      {
+        "no": 1,
+        "copyright": 2,
+        "showRecommend": false,
+        "fee": 0,
+        "privilege": {
+          "st": 0,
+          "flag": 128,
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "cp": 1,
+          "cs": false,
+          "toast": false,
+          "maxbr": 320000,
+          "id": 543988435,
+          "pl": 320000,
+          "sp": 7,
+          "payed": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 193828,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "id": 543988435,
+        "alg": "alg_search_precision_song_tab_hotartist",
+        "st": 0,
+        "cd": "01",
+        "publishTime": 1520524800007,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7755276,
+          "vd": -20200.0
+        },
+        "mv": 5853043,
+        "al": {
+          "picUrl": "http://p2.music.126.net/buGJLT7Ys_69-CKcUKGiKQ==/109951163179826703.jpg",
+          "name": "Fly",
+          "tns": [],
+          "pic_str": "109951163179826703",
+          "id": 37886083,
+          "pic": 109951163179826703
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3102137,
+          "vd": -16400.0
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4653183,
+          "vd": -17600.0
+        },
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "ar": [
+          {
+            "name": "Marshmello",
+            "tns": [],
+            "alias": [
+              "棉花糖"
+            ],
+            "id": 1060019,
+            "alia": [
+              "棉花糖"
+            ]
+          },
+          {
+            "name": "Leau Culver",
+            "tns": [],
+            "alias": [],
+            "id": 29653889
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 7,
+        "name": "Fly",
+        "officialTags": true,
+        "mark": 0
+      },
+      {
+        "no": 1,
+        "copyright": 0,
+        "showRecommend": false,
+        "fee": 8,
+        "privilege": {
+          "st": 0,
+          "flag": 4,
+          "subp": 1,
+          "fl": 128000,
+          "fee": 8,
+          "dl": 0,
+          "cp": 1,
+          "cs": false,
+          "toast": false,
+          "maxbr": 999000,
+          "id": 497218032,
+          "pl": 128000,
+          "sp": 7,
+          "payed": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 180183,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "id": 497218032,
+        "alg": "alg_search_precision_song_tab_hotartist",
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1502409600000,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7209840,
+          "vd": -44300.0
+        },
+        "mv": 5690027,
+        "al": {
+          "picUrl": "http://p2.music.126.net/aBE9Hc1G7S_Sp3ZcFG-tLA==/18421217812016775.jpg",
+          "name": "Silence",
+          "tns": [],
+          "pic_str": "18421217812016775",
+          "id": 35909473,
+          "pic": 18421217812016775
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2883962,
+          "vd": -40000.0
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4325921,
+          "vd": -41800.0
+        },
+        "cp": 7001,
+        "alia": [],
+        "djId": 0,
+        "ar": [
+          {
+            "name": "Marshmello",
+            "tns": [],
+            "alias": [
+              "棉花糖"
+            ],
+            "id": 1060019,
+            "alia": [
+              "棉花糖"
+            ]
+          },
+          {
+            "name": "Khalid",
+            "tns": [],
+            "alias": [],
+            "id": 301757
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 34,
+        "name": "Silence",
+        "officialTags": true,
+        "mark": 270336
+      },
+      {
+        "no": 5,
+        "copyright": 0,
+        "showRecommend": false,
+        "fee": 0,
+        "privilege": {
+          "st": 0,
+          "flag": 128,
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 320000,
+          "cp": 1,
+          "cs": false,
+          "toast": false,
+          "maxbr": 320000,
+          "id": 400161903,
+          "pl": 320000,
+          "sp": 7,
+          "payed": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 221469,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "id": 400161903,
+        "alg": "alg_search_precision_song_tab_hotartist",
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1452787200000,
+        "cf": "",
+        "originCoverType": 2,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8860777,
+          "vd": -50600.0
+        },
+        "mv": 0,
+        "al": {
+          "picUrl": "http://p2.music.126.net/cczI0IydCMfbfJb_L2O81w==/6666339000909755.jpg",
+          "name": "Warsongs",
+          "tns": [],
+          "id": 34429106,
+          "pic": 6666339000909755
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3544336,
+          "vd": -47500.0
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5316483,
+          "vd": -48300.0
+        },
+        "cp": 0,
+        "alia": [
+          "风光闪"
+        ],
+        "djId": 0,
+        "ar": [
+          {
+            "name": "英雄联盟",
+            "tns": [],
+            "alias": [
+              "英雄联盟"
+            ],
+            "id": 1047337,
+            "alia": [
+              "英雄联盟"
+            ]
+          },
+          {
+            "name": "Marshmello",
+            "tns": [],
+            "alias": [
+              "棉花糖"
+            ],
+            "id": 1060019,
+            "alia": [
+              "棉花糖"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 9,
+        "name": "Flash Funk (Marshmello Remix)",
+        "officialTags": true,
+        "mark": 262144
+      },
+      {
+        "no": 1,
+        "copyright": 0,
+        "showRecommend": false,
+        "fee": 0,
+        "privilege": {
+          "st": 0,
+          "flag": 128,
+          "subp": 1,
+          "fl": 320000,
+          "fee": 0,
+          "dl": 999000,
+          "cp": 1,
+          "cs": false,
+          "toast": false,
+          "maxbr": 999000,
+          "id": 476323553,
+          "pl": 320000,
+          "sp": 7,
+          "payed": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 100.0,
+        "dt": 179119,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "id": 476323553,
+        "alg": "alg_search_precision_song_tab_hotartist",
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1493913600007,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 7166999,
+          "vd": -42900.0
+        },
+        "mv": 5514057,
+        "al": {
+          "picUrl": "http://p2.music.126.net/YrYxCZ66j8FS6CBP_5sx-A==/19115009649004285.jpg",
+          "name": "Moving On",
+          "tns": [],
+          "pic_str": "19115009649004285",
+          "id": 35456148,
+          "pic": 19115009649004285
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 2866826,
+          "vd": -39000.0
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 4300217,
+          "vd": -40400.0
+        },
+        "cp": 0,
+        "alia": [],
+        "djId": 0,
+        "ar": [
+          {
+            "name": "Marshmello",
+            "tns": [],
+            "alias": [
+              "棉花糖"
+            ],
+            "id": 1060019,
+            "alia": [
+              "棉花糖"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 13,
+        "name": "Moving On",
+        "officialTags": true,
+        "mark": 262144
+      },
+      {
+        "no": 6,
+        "copyright": 2,
+        "showRecommend": false,
+        "fee": 1,
+        "privilege": {
+          "st": 0,
+          "flag": 1284,
+          "subp": 0,
+          "fl": 0,
+          "fee": 1,
+          "dl": 0,
+          "cp": 0,
+          "cs": false,
+          "toast": false,
+          "maxbr": 999000,
+          "id": 522529654,
+          "pl": 0,
+          "sp": 0,
+          "payed": 0
+        },
+        "mst": 9,
+        "pst": 0,
+        "pop": 95.0,
+        "dt": 214586,
+        "rtype": 0,
+        "s_id": 0,
+        "rtUrls": [],
+        "id": 522529654,
+        "alg": "alg_search_precision_song_tab_hotartist",
+        "st": 0,
+        "cd": "1",
+        "publishTime": 1513267200007,
+        "cf": "",
+        "originCoverType": 0,
+        "h": {
+          "br": 320000,
+          "fid": 0,
+          "size": 8585970,
+          "vd": -33100.0
+        },
+        "mv": 5766069,
+        "al": {
+          "picUrl": "http://p2.music.126.net/NnXe-q_3RM1fthGbiZW0bA==/18403625626211504.jpg",
+          "name": "Bright: The Album",
+          "tns": [],
+          "pic_str": "18403625626211504",
+          "id": 36770323,
+          "pic": 18403625626211504
+        },
+        "l": {
+          "br": 128000,
+          "fid": 0,
+          "size": 3434414,
+          "vd": -29000.0
+        },
+        "m": {
+          "br": 192000,
+          "fid": 0,
+          "size": 5151600,
+          "vd": -30600.0
+        },
+        "cp": 7002,
+        "alia": [],
+        "djId": 0,
+        "ar": [
+          {
+            "name": "Migos",
+            "tns": [],
+            "alias": [],
+            "id": 776824
+          },
+          {
+            "name": "Marshmello",
+            "tns": [],
+            "alias": [
+              "棉花糖"
+            ],
+            "id": 1060019,
+            "alia": [
+              "棉花糖"
+            ]
+          }
+        ],
+        "ftype": 0,
+        "t": 0,
+        "v": 346,
+        "name": "Danger",
+        "officialTags": true,
+        "mark": 270336
+      }
+    ],
+    "songCount": 960
+  }
+}
